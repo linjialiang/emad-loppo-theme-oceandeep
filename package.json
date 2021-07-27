@@ -1,13 +1,13 @@
 {
   "name": "emad-loppo-theme-oceandeep",
   "version": "1.0.1",
-  "description": "a theme of loppo",
+  "description": "a theme of emad-loppo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "loppo"
+    "emad-loppo"
   ],
   "homepage": "https://github.com/linjialiang/emad-loppo-theme-oceandeep",
   "repository": {
