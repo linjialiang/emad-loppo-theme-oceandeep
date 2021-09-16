@@ -1,4 +1,4 @@
-The default theme of emad-loppo.
+The default theme of Loppo.
 
 ## License
 

@@ -1,22 +1,19 @@
 {
-  "name": "emad-loppo-theme-oceandeep",
-  "version": "1.0.4",
-  "description": "a theme of emad-loppo",
+  "name": "loppo-theme-oceandeep",
+  "version": "2.4.2",
+  "description": "a theme of loppo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "emad-loppo"
+    "loppo"
   ],
-  "homepage": "https://github.com/linjialiang/emad-loppo-theme-oceandeep",
+  "homepage": "https://github.com/ruanyf/loppo-theme-oceandeep",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linjialiang/emad-loppo-theme-oceandeep.git"
+    "url": "https://github.com/ruanyf/loppo-theme-oceandeep.git"
   },
-  "author": "Lin Jialiang",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/linjialiang/emad-loppo-theme-oceandeep/issues"
-  }
+  "author": "Ruan Yifeng",
+  "license": "mit"
 }
