@@ -1,6 +1,6 @@
 {
   "name": "emad-loppo-theme-oceandeep",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "a theme of emad-loppo",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
     "url": "https://gitee.com/linjialiang/emad-loppo-theme-oceandeep.git"
   },
   "author": "linjialiang",
-  "license": "mit"
+  "license": "MIT"
 }
